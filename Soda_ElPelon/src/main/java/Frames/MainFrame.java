@@ -449,9 +449,7 @@ public class MainFrame extends javax.swing.JFrame {
                         .addContainerGap()
                         .addGroup(softDrinksLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 500, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addGroup(softDrinksLayout.createSequentialGroup()
-                                .addComponent(titleSd)
-                                .addGap(148, 148, 148)))))
+                            .addComponent(titleSd))))
                 .addContainerGap(24, Short.MAX_VALUE))
         );
 
